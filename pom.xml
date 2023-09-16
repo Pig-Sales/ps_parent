@@ -84,12 +84,5 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
-        <repository>
-            <id>ps_parent-repo</id>
-            <url>file:${basedir}/repo</url>
-        </repository>
-    </distributionManagement>
-
 </project>
 
