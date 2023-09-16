@@ -14,7 +14,6 @@
     <name>ps_parent</name>
     <description>ps_parent</description>
     <modules>
-        <module>../feign</module>
         <module>../utils</module>
         <module>../gateway</module>
         <module>../user</module>
