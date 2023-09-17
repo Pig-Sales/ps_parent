@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.ps</groupId>
     <artifactId>ps_parent</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>ps_parent</name>
     <description>ps_parent</description>
     <modules>
@@ -84,11 +84,5 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
-        <repository>
-            <id>ps_parent</id>
-            <url>file:${basedir}/repo</url>
-        </repository>
-    </distributionManagement>
 </project>
 
