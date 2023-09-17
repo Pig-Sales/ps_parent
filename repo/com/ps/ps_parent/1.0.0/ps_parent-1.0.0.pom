@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.ps</groupId>
     <artifactId>ps_parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>ps_parent</name>
     <description>ps_parent</description>
     <modules>
