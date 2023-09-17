@@ -3,16 +3,16 @@
   <groupId>com.ps</groupId>
   <artifactId>ps_parent</artifactId>
   <versioning>
-    <lastUpdated>20230917125608</lastUpdated>
+    <lastUpdated>20230917133737</lastUpdated>
     <snapshot>
-      <timestamp>20230917.125608</timestamp>
+      <timestamp>20230917.133737</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20230917.125608-1</value>
-        <updated>20230917125608</updated>
+        <value>0.0.1-20230917.133737-1</value>
+        <updated>20230917133737</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
